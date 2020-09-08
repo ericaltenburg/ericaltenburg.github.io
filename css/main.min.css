@@ -26,6 +26,13 @@ a:hover {
     text-align: center
 }
 
+.custom-hover:hover {
+	color: #018786;
+	-webkit-transition: color .2s;
+    -moz-transition: color .2s;
+    transition: color .2s
+}
+
 footer,
 header {
     position: fixed
@@ -189,7 +196,7 @@ a {
 }
 
 a:hover {
-    color: #ff3232;
+    color: #018786;
     -webkit-transition: color .2s;
     -moz-transition: color .2s;
     transition: color .2s
