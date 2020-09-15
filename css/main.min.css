@@ -151,6 +151,13 @@ ul {
     list-style: none
 }
 
+ul.show-bullets {
+	list-style-type: disc
+}
+li.indent {
+	margin-left: 20px
+}
+
 blockquote,
 q {
     quotes: none
