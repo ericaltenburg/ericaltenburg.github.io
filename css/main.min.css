@@ -209,6 +209,10 @@ a:hover {
     transition: color .2s
 }
 
+.proj-link {
+	font-style: italic;
+}
+
 h1 {
     font-family: AvenirLT-Roman, Muli, sans-serif;
     line-height: 1.2em;
